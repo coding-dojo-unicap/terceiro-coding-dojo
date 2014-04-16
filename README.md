@@ -3,7 +3,7 @@ terceiro-coding-dojo
 
 ## 3º coding dojo realizado na unicap - 29/03/2014
 
-* linguagem: python
+* linguagem: c
 * numero de participantes: 4
 * problemas escolhido: [Números Romanos](http://dojopuzzles.com/problemas/exibe/numeros-romanos/)
 
